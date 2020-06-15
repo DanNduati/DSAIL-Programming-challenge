@@ -6,7 +6,7 @@
 
 This script dumps the json payload from the endpoint and stores it as data.json for better visualisation of the data before further analysis
 
-## 2.Main.py script
+## 2.main.py script
 
 This script creates a directory 'hadada ibis' on the path specified by the user as a system variable it then queries 'hadada ibis' from the endpoint and the response is returned with a payload in JSON format.It is not possible to add the country as a query parameter and as so this had to be done in the script after which the dowload urls for kenya recordings are filtered out and the recordings downloaded to the directory created
 #### links
