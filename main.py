@@ -54,7 +54,7 @@ def main():
     response =requests.get('https://www.xeno-canto.org/api/2/recordings?query=hadada ibis')
     data = response.json()
     #pretty print to see nested fcking structure
-    print(json.dumps(data, indent=4,sort_keys=True))
+    #print(json.dumps(data, indent=4,sort_keys=True))
     result = data['recordings']
     print(len(result))#should be 122 as the website
     KenyanData = get_kenyan(result)
