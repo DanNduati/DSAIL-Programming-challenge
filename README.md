@@ -2,6 +2,7 @@
 ## Background
 ### Tasks
 ![Image description](https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/challenge.png)
+## ~~Task 1~~
 ## Task 2
 ## 1.data.py script
 
