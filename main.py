@@ -4,7 +4,7 @@ import json
 import requests
 import sys
 
-#sometimes I believe the interpreter ignores all my comments :L
+#sometimes I believe the interpreter ignores all my comments (ㆆ_ㆆ)
 def create_dir(path):
     dir_name = "Hadada Ibis"
     dir_path = path
