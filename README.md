@@ -1,7 +1,7 @@
 # DSAIL-Programming-challenge
 ## Background
 ### Tasks
-![Image description](https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/challenge.png)
+![Tasks](https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/challenge.png)
 ## ~~Task 1~~
 ## Task 2
 ## 1.data.py script
@@ -23,3 +23,6 @@ python scraper.py
 ```bash
 python main.py /your/directory example: python3 main.py /home/daniel/Desktop
 ```
+## Expected Output
+<img src="https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/output.png" width="450">
+<img src="https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/dir.png" width="450">
