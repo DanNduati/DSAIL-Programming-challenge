@@ -1,7 +1,8 @@
 # DSAIL-Programming-challenge
 ## Background
 ### Tasks
-![Tasks](https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/challenge.png)
+<img src="https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/challenge.png" width="400">
+
 ## ~~Task 1~~
 ## Task 2
 ## 1.data.py script
