@@ -1,7 +1,8 @@
 # DSAIL-Programming-challenge
 ## Background
-### Task
+### Tasks
 ![Image description](https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/challenge.png)
+## Task 2
 ## 1.data.py script
 
 This script dumps the json payload from the endpoint and stores it as data.json for better visualisation of the data before further analysis
