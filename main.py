@@ -4,7 +4,7 @@ import json
 import requests
 import sys
 
-
+#sometimes I believe the interpreter ignores all my comments
 def create_dir(path):
     dir_name = "Hadada Ibis"
     dir_path = path
@@ -17,7 +17,7 @@ def create_dir(path):
         print('Directory '+dir_name+' already exists')
         return FullPath
     else:
-        pass
+        print('Something is really wrong haha')
 
 
 def get_kenyan(payload):
@@ -38,7 +38,7 @@ def get_url(recordings):
         url = url[2:]
         full_url.append('https://'+url)
     return full_url
-
+# total_hours_wasted_here trying to optimize this = 3
 def DownloadAudio(urls,dir):
     for i in range(len(urls)):
         r = requests.get(urls[i]+'/download')
