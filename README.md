@@ -18,7 +18,7 @@ This script creates a directory 'hadada ibis' on the path specified by the user 
 # Running the scripts
 ## 1.data.py
 ```bash
-python scraper.py
+python data.py
 ```
 ## 2.main.py
 ```bash
