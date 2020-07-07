@@ -23,7 +23,7 @@ Install
 ```pip install tinytag```
 
 ## Expected Output
-<img src="https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/duration.png" width="600">
+<img src="https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/dan.png" width="600">
 
 ## Task 2
 ## 1.data.py script
