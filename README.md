@@ -1,9 +1,25 @@
 # DSAIL-Programming-challenge
 ## Background
-### Tasks
+## Tasks
 <img src="https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/challenge.png" width="400">
 
 ## Task 1
+## duration.py script
+
+## tinytag module
+tinytag is a library for reading music meta data of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files with python
+
+[![Build Status](https://travis-ci.org/devsnd/tinytag.png?branch=master)](https://travis-ci.org/devsnd/tinytag)
+[![Build status](https://ci.appveyor.com/api/projects/status/w9y2kg97869g1edj?svg=true)](https://ci.appveyor.com/project/devsnd/tinytag)
+[![Coverage Status](https://coveralls.io/repos/devsnd/tinytag/badge.png)](https://coveralls.io/r/devsnd/tinytag)
+
+Install
+-------
+
+```pip install tinytag```
+
+## Expected Output
+<img src="https://github.com/DanNduati/DSAIL-Programming-challenge/blob/master/duration.png" width="600">
 
 ## Task 2
 ## 1.data.py script
