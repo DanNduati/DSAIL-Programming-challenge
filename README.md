@@ -5,8 +5,12 @@
 
 ## Task 1
 ## duration.py script
-
-## tinytag module
+This python script takes a users directory as a argument variable, stores all the files' file paths in the directory and its subdirectories in a list, filters audio files and sorts them according to file types and then calculates their duration using the tinytag library and outputs the duration in hours.
+## Running the script
+```bash
+python duration.py /directory/with/audiofiles example: python3 duration.py /home/daniel/Desktop/dsail
+```
+## tinytag 
 tinytag is a library for reading music meta data of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files with python
 
 [![Build Status](https://travis-ci.org/devsnd/tinytag.png?branch=master)](https://travis-ci.org/devsnd/tinytag)
