@@ -5,7 +5,7 @@ import requests
 parameters = {'cnt': 'Kenya'}
 response =requests.get('https://www.xeno-canto.org/api/2/recordings?query=hadada ibis',params=parameters)
 #response =requests.get('https://www.xeno-canto.org/api/2/recordings?query=hadada ibis')
-#print(response)
+
 data = response.json()
 print(data)
 #print (data)
