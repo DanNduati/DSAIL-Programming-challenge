@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-import os
-import json
-import requests
-import sys
+import os, json, requests,sys
 
 #sometimes I believe the interpreter ignores all my comments (ㆆ_ㆆ)
 def create_dir(path):
